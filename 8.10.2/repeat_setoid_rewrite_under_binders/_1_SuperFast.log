@@ -1,16 +1,16 @@
 Params: n= 50
-Tactic call setoid_rewrite-regression-cubic ran for 0.287 secs (0.279u,0.007s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.354 secs (0.345u,0.008s) (success)
-Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.066 secs (0.065u,0.s)
+Tactic call setoid_rewrite-regression-cubic ran for 0.295 secs (0.266u,0.028s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.365 secs (0.335u,0.029s) (success)
+Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.068 secs (0.068u,0.s)
 Params: n= 100
-Tactic call setoid_rewrite-regression-cubic ran for 1.17 secs (1.166u,0.003s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 1.41 secs (1.406u,0.003s) (success)
-Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.239 secs (0.239u,0.s)
+Tactic call setoid_rewrite-regression-cubic ran for 1.24 secs (1.239u,0.s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 1.5 secs (1.499u,0.s) (success)
+Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.259 secs (0.259u,0.s)
 Params: n= 150
-Tactic call setoid_rewrite-regression-cubic ran for 3.456 secs (3.434u,0.02s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 4.023 secs (4.001u,0.02s) (success)
-Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.566 secs (0.566u,0.s)
+Tactic call setoid_rewrite-regression-cubic ran for 3.718 secs (3.71u,0.003s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 4.264 secs (4.255u,0.004s) (success)
+Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.545 secs (0.545u,0.s)
 Params: n= 200
-Tactic call setoid_rewrite-regression-cubic ran for 7.326 secs (7.31u,0.015s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 8.264 secs (8.244u,0.02s) (success)
-Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.937 secs (0.933u,0.004s)
+Tactic call setoid_rewrite-regression-cubic ran for 8.033 secs (8.023u,0.007s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 8.949 secs (8.939u,0.007s) (success)
+Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.915 secs (0.915u,0.s)
