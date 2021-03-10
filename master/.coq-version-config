@@ -1,5 +1,6 @@
 LOCAL=0
 COQLIB=/usr/lib/coq/
+COQCORELIB=/usr/lib/coq/../coq-core//
 DOCDIR=/usr/share/doc/coq/
 OCAMLFIND=/usr/bin/ocamlfind
 CAMLFLAGS=-thread -rectypes -w +a-4-9-27-41-42-44-45-48-58-67   -safe-string -strict-sequence
