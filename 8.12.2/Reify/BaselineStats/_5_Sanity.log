@@ -1,24 +1,24 @@
 Params: n= 1
 native_compute: Conversion to native code done in 0.00016
-native_compute: Compilation done in 0.06620
-native_compute: Evaluation done in 0.00104
+native_compute: Compilation done in 0.07911
+native_compute: Evaluation done in 0.00109
 native_compute: Reification done in 0.00004
-Tactic call identity native_compute on PHOAS with big_flat ran for 0.067 secs (0.u,0.006s) (success)
+Tactic call identity native_compute on PHOAS with big_flat ran for 0.08 secs (0.001u,0.003s) (success)
 Params: n= 2
-native_compute: Conversion to native code done in 0.00015
-native_compute: Compilation done in 0.06328
-native_compute: Evaluation done in 0.00100
-native_compute: Reification done in 0.00005
-Tactic call identity native_compute on PHOAS with big_flat ran for 0.064 secs (0.u,0.005s) (success)
-Params: n= 3
 native_compute: Conversion to native code done in 0.00016
-native_compute: Compilation done in 0.06147
-native_compute: Evaluation done in 0.00098
+native_compute: Compilation done in 0.07143
+native_compute: Evaluation done in 0.00107
+native_compute: Reification done in 0.00004
+Tactic call identity native_compute on PHOAS with big_flat ran for 0.072 secs (0.u,0.004s) (success)
+Params: n= 3
+native_compute: Conversion to native code done in 0.00021
+native_compute: Compilation done in 0.07029
+native_compute: Evaluation done in 0.00104
 native_compute: Reification done in 0.00005
-Tactic call identity native_compute on PHOAS with big_flat ran for 0.062 secs (0.001u,0.004s) (success)
+Tactic call identity native_compute on PHOAS with big_flat ran for 0.071 secs (0.u,0.004s) (success)
 Params: n= 4
-native_compute: Conversion to native code done in 0.00015
-native_compute: Compilation done in 0.06223
-native_compute: Evaluation done in 0.00101
-native_compute: Reification done in 0.00006
-Tactic call identity native_compute on PHOAS with big_flat ran for 0.063 secs (0.u,0.004s) (success)
+native_compute: Conversion to native code done in 0.00023
+native_compute: Compilation done in 0.06954
+native_compute: Evaluation done in 0.00104
+native_compute: Reification done in 0.00005
+Tactic call identity native_compute on PHOAS with big_flat ran for 0.071 secs (0.u,0.004s) (success)
