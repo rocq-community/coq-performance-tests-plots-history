@@ -1,0 +1,35 @@
+Params: 0-n= 131071 , 1-lgn= 16
+Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 0.108 secs (0.1u,0.008s) (success)
+Tactic call try-ssr-rewrite!-noop-regression-linear ran for 0.058 secs (0.058u,0.s) (success)
+Tactic call try-ssr-rewrite-noop-regression-linear ran for 0.06 secs (0.06u,0.s) (success)
+Tactic call try-ssr-rewrite?-noop-regression-linear ran for 0.071 secs (0.071u,0.s) (success)
+Params: 0-n= 262143 , 1-lgn= 17
+Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 0.156 secs (0.156u,0.s) (success)
+Tactic call try-ssr-rewrite!-noop-regression-linear ran for 0.125 secs (0.124u,0.s) (success)
+Tactic call try-ssr-rewrite-noop-regression-linear ran for 0.112 secs (0.112u,0.s) (success)
+Tactic call try-ssr-rewrite?-noop-regression-linear ran for 0.105 secs (0.105u,0.s) (success)
+Params: 0-n= 524287 , 1-lgn= 18
+Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 0.414 secs (0.406u,0.007s) (success)
+Tactic call try-ssr-rewrite!-noop-regression-linear ran for 0.213 secs (0.213u,0.s) (success)
+Tactic call try-ssr-rewrite-noop-regression-linear ran for 0.215 secs (0.215u,0.s) (success)
+Tactic call try-ssr-rewrite?-noop-regression-linear ran for 0.22 secs (0.22u,0.s) (success)
+Params: 0-n= 1048575 , 1-lgn= 19
+Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 0.926 secs (0.926u,0.s) (success)
+Tactic call try-ssr-rewrite!-noop-regression-linear ran for 0.453 secs (0.453u,0.s) (success)
+Tactic call try-ssr-rewrite-noop-regression-linear ran for 0.442 secs (0.442u,0.s) (success)
+Tactic call try-ssr-rewrite?-noop-regression-linear ran for 0.441 secs (0.441u,0.s) (success)
+Params: 0-n= 2097151 , 1-lgn= 20
+Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 1.14 secs (1.128u,0.012s) (success)
+Tactic call try-ssr-rewrite!-noop-regression-linear ran for 0.926 secs (0.926u,0.s) (success)
+Tactic call try-ssr-rewrite-noop-regression-linear ran for 0.948 secs (0.948u,0.s) (success)
+Tactic call try-ssr-rewrite?-noop-regression-linear ran for 0.939 secs (0.939u,0.s) (success)
+Params: 0-n= 4194303 , 1-lgn= 21
+Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 2.233 secs (2.232u,0.s) (success)
+Tactic call try-ssr-rewrite!-noop-regression-linear ran for 1.822 secs (1.822u,0.s) (success)
+Tactic call try-ssr-rewrite-noop-regression-linear ran for 1.797 secs (1.797u,0.s) (success)
+Tactic call try-ssr-rewrite?-noop-regression-linear ran for 1.809 secs (1.808u,0.s) (success)
+Params: 0-n= 8388607 , 1-lgn= 22
+Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 3.725 secs (3.725u,0.s) (success)
+Tactic call try-ssr-rewrite!-noop-regression-linear ran for 3.595 secs (3.59u,0.003s) (success)
+Tactic call try-ssr-rewrite-noop-regression-linear ran for 3.603 secs (3.598u,0.003s) (success)
+Tactic call try-ssr-rewrite?-noop-regression-linear ran for 3.593 secs (3.592u,0.s) (success)

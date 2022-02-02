@@ -1,24 +1,24 @@
 Params: n= 1
 native_compute: Conversion to native code done in 0.00002
-native_compute: Compilation done in 0.05246
-native_compute: Evaluation done in 0.00072
+native_compute: Compilation done in 0.05311
+native_compute: Evaluation done in 0.00122
 native_compute: Reification done in 0.00006
-Tactic call identity native_compute on PHOAS with big ran for 0.055 secs (0.001u,0.002s) (success)
+Tactic call identity native_compute on PHOAS with big ran for 0.055 secs (0.u,0.004s) (success)
 Params: n= 2
 native_compute: Conversion to native code done in 0.00002
-native_compute: Compilation done in 0.04820
-native_compute: Evaluation done in 0.00119
-native_compute: Reification done in 0.00006
-Tactic call identity native_compute on PHOAS with big ran for 0.049 secs (0.001u,0.001s) (success)
-Params: n= 3
-native_compute: Conversion to native code done in 0.00002
-native_compute: Compilation done in 0.04880
-native_compute: Evaluation done in 0.00071
-native_compute: Reification done in 0.00008
-Tactic call identity native_compute on PHOAS with big ran for 0.049 secs (0.u,0.002s) (success)
-Params: n= 4
-native_compute: Conversion to native code done in 0.00002
-native_compute: Compilation done in 0.04923
+native_compute: Compilation done in 0.05078
 native_compute: Evaluation done in 0.00067
 native_compute: Reification done in 0.00007
-Tactic call identity native_compute on PHOAS with big ran for 0.05 secs (0.001u,0.001s) (success)
+Tactic call identity native_compute on PHOAS with big ran for 0.051 secs (0.002u,0.s) (success)
+Params: n= 3
+native_compute: Conversion to native code done in 0.00002
+native_compute: Compilation done in 0.05145
+native_compute: Evaluation done in 0.00069
+native_compute: Reification done in 0.00007
+Tactic call identity native_compute on PHOAS with big ran for 0.052 secs (0.001u,0.001s) (success)
+Params: n= 4
+native_compute: Conversion to native code done in 0.00003
+native_compute: Compilation done in 0.05065
+native_compute: Evaluation done in 0.00120
+native_compute: Reification done in 0.00007
+Tactic call identity native_compute on PHOAS with big ran for 0.052 secs (0.u,0.003s) (success)
