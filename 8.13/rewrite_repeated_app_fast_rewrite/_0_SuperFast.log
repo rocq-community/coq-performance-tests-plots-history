@@ -1,0 +1,48 @@
+Params: n= 50
+Tactic call refine-regression-quadratic-regression-linear ran for 0. secs (0.u,0.s) (success)
+Tactic call pose-build-and-refine-regression-cubic ran for 0.01 secs (0.005u,0.005s) (success)
+Tactic call fast_rewrite-regression-cubic ran for 0.01 secs (0.005u,0.005s) (success)
+Tactic call abstract-regression-cubic ran for 0.014 secs (0.006u,0.007s) (success)
+Tactic call close-abstract-regression-cubic ran for 0.003 secs (0.001u,0.001s)
+Params: n= 100
+Tactic call refine-regression-quadratic-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
+Tactic call pose-build-and-refine-regression-cubic ran for 0.022 secs (0.012u,0.01s) (success)
+Tactic call fast_rewrite-regression-cubic ran for 0.022 secs (0.012u,0.01s) (success)
+Tactic call abstract-regression-cubic ran for 0.038 secs (0.023u,0.015s) (success)
+Tactic call close-abstract-regression-cubic ran for 0.015 secs (0.01u,0.005s)
+Params: n= 150
+Tactic call refine-regression-quadratic-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pose-build-and-refine-regression-cubic ran for 0.097 secs (0.06u,0.036s) (success)
+Tactic call fast_rewrite-regression-cubic ran for 0.097 secs (0.06u,0.036s) (success)
+Tactic call abstract-regression-cubic ran for 0.134 secs (0.097u,0.036s) (success)
+Tactic call close-abstract-regression-cubic ran for 0.036 secs (0.036u,0.s)
+Params: n= 200
+Tactic call refine-regression-quadratic-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call pose-build-and-refine-regression-cubic ran for 0.038 secs (0.038u,0.s) (success)
+Tactic call fast_rewrite-regression-cubic ran for 0.038 secs (0.038u,0.s) (success)
+Tactic call abstract-regression-cubic ran for 0.118 secs (0.118u,0.s) (success)
+Tactic call close-abstract-regression-cubic ran for 0.08 secs (0.08u,0.s)
+Params: n= 250
+Tactic call refine-regression-quadratic-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call pose-build-and-refine-regression-cubic ran for 0.056 secs (0.056u,0.s) (success)
+Tactic call fast_rewrite-regression-cubic ran for 0.056 secs (0.056u,0.s) (success)
+Tactic call abstract-regression-cubic ran for 0.203 secs (0.203u,0.s) (success)
+Tactic call close-abstract-regression-cubic ran for 0.147 secs (0.147u,0.s)
+Params: n= 300
+Tactic call refine-regression-quadratic-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call pose-build-and-refine-regression-cubic ran for 0.076 secs (0.076u,0.s) (success)
+Tactic call fast_rewrite-regression-cubic ran for 0.076 secs (0.076u,0.s) (success)
+Tactic call abstract-regression-cubic ran for 0.329 secs (0.329u,0.s) (success)
+Tactic call close-abstract-regression-cubic ran for 0.252 secs (0.252u,0.s)
+Params: n= 350
+Tactic call refine-regression-quadratic-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pose-build-and-refine-regression-cubic ran for 0.109 secs (0.109u,0.s) (success)
+Tactic call fast_rewrite-regression-cubic ran for 0.109 secs (0.109u,0.s) (success)
+Tactic call abstract-regression-cubic ran for 0.507 secs (0.507u,0.s) (success)
+Tactic call close-abstract-regression-cubic ran for 0.397 secs (0.397u,0.s)
+Params: n= 400
+Tactic call refine-regression-quadratic-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pose-build-and-refine-regression-cubic ran for 0.114 secs (0.114u,0.s) (success)
+Tactic call fast_rewrite-regression-cubic ran for 0.114 secs (0.114u,0.s) (success)
+Tactic call abstract-regression-cubic ran for 0.696 secs (0.693u,0.003s) (success)
+Tactic call close-abstract-regression-cubic ran for 0.581 secs (0.578u,0.003s)
