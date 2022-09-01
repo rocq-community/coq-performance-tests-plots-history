@@ -14,8 +14,8 @@ CPU family:                      6
 Model:                           85
 Model name:                      Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz
 Stepping:                        4
-CPU MHz:                         2095.177
-BogoMIPS:                        4190.35
+CPU MHz:                         2095.095
+BogoMIPS:                        4190.19
 Hypervisor vendor:               Microsoft
 Virtualization type:             full
 L1d cache:                       64 KiB
@@ -28,12 +28,13 @@ Vulnerability L1tf:              Mitigation; PTE Inversion
 Vulnerability Mds:               Mitigation; Clear CPU buffers; SMT Host state unknown
 Vulnerability Meltdown:          Mitigation; PTI
 Vulnerability Mmio stale data:   Vulnerable: Clear CPU buffers attempted, no microcode; SMT Host state unknown
+Vulnerability Retbleed:          Vulnerable
 Vulnerability Spec store bypass: Vulnerable
 Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
 Vulnerability Spectre v2:        Mitigation; Retpolines, STIBP disabled, RSB filling
 Vulnerability Srbds:             Not affected
 Vulnerability Tsx async abort:   Mitigation; Clear CPU buffers; SMT Host state unknown
-Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm avx512f avx512dq rdseed adx smap clflushopt avx512cd avx512bw avx512vl xsaveopt xsavec xsaves md_clear
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx avx512f avx512dq rdseed adx smap clflushopt avx512cd avx512bw avx512vl xsaveopt xsavec xsaves md_clear
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m uname -a
-Linux 58df7e3e9ee4 5.15.0-1014-azure #17~20.04.1-Ubuntu SMP Thu Jun 23 20:01:51 UTC 2022 x86_64 GNU/Linux
+Linux 63d5ab223634 5.15.0-1017-azure #20~20.04.1-Ubuntu SMP Fri Aug 5 12:16:53 UTC 2022 x86_64 GNU/Linux
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m lsb_release -a
