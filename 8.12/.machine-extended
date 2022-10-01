@@ -14,7 +14,7 @@ CPU family:                      6
 Model:                           85
 Model name:                      Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
 Stepping:                        7
-CPU MHz:                         2593.906
+CPU MHz:                         2593.907
 BogoMIPS:                        5187.81
 Hypervisor vendor:               Microsoft
 Virtualization type:             full
@@ -36,5 +36,5 @@ Vulnerability Srbds:             Not affected
 Vulnerability Tsx async abort:   Mitigation; Clear CPU buffers; SMT Host state unknown
 Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx avx512f avx512dq rdseed adx smap clflushopt avx512cd avx512bw avx512vl xsaveopt xsavec xsaves md_clear
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m uname -a
-Linux 30f951aeeecb 5.15.0-1017-azure #20~20.04.1-Ubuntu SMP Fri Aug 5 12:16:53 UTC 2022 x86_64 GNU/Linux
+Linux c5ae4520775d 5.15.0-1020-azure #25~20.04.1-Ubuntu SMP Thu Sep 1 19:20:56 UTC 2022 x86_64 GNU/Linux
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m lsb_release -a
