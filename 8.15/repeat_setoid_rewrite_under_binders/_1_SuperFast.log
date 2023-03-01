@@ -1,16 +1,16 @@
 Params: n= 50
-Tactic call setoid_rewrite-regression-cubic ran for 0.157 secs (0.123u,0.027s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.182 secs (0.148u,0.027s) (success)
+Tactic call setoid_rewrite-regression-cubic ran for 0.16 secs (0.12u,0.04s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.185 secs (0.144u,0.04s) (success)
 Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.024 secs (0.024u,0.s)
 Params: n= 100
-Tactic call setoid_rewrite-regression-cubic ran for 0.354 secs (0.35u,0.003s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.442 secs (0.438u,0.003s) (success)
-Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.087 secs (0.087u,0.s)
+Tactic call setoid_rewrite-regression-cubic ran for 0.36 secs (0.353u,0.007s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.449 secs (0.442u,0.007s) (success)
+Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.088 secs (0.088u,0.s)
 Params: n= 150
-Tactic call setoid_rewrite-regression-cubic ran for 0.878 secs (0.869u,0.007s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 1.064 secs (1.055u,0.008s) (success)
+Tactic call setoid_rewrite-regression-cubic ran for 0.882 secs (0.87u,0.011s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 1.067 secs (1.055u,0.011s) (success)
 Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.185 secs (0.185u,0.s)
 Params: n= 200
-Tactic call setoid_rewrite-regression-cubic ran for 1.492 secs (1.488u,0.003s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 1.815 secs (1.811u,0.003s) (success)
+Tactic call setoid_rewrite-regression-cubic ran for 1.576 secs (1.552u,0.023s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 1.899 secs (1.875u,0.023s) (success)
 Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.322 secs (0.322u,0.s)
