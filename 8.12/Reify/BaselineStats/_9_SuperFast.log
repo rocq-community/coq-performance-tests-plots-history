@@ -47,7 +47,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success
 Params: n= 28
 Tactic call cbn Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 29
-Tactic call cbn Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 30
 Tactic call cbn Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 31
@@ -61,7 +61,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success
 Params: n= 35
 Tactic call cbn Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 36
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.05 secs (0.034u,0.016s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.05 secs (0.037u,0.013s) (success)
 Params: n= 37
 Tactic call cbn Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 38
@@ -205,7 +205,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (s
 Params: n= 107
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 108
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 109
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 110
@@ -221,13 +221,13 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (s
 Params: n= 115
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 116
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.u,0.002s) (success)
 Params: n= 117
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 118
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 119
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.001u,0.s) (success)
 Params: n= 120
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 121
@@ -315,9 +315,9 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (s
 Params: n= 162
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 163
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
-Params: n= 164
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 164
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 165
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 166
@@ -423,11 +423,11 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (s
 Params: n= 216
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 217
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 218
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 219
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.003u,0.s) (success)
 Params: n= 220
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 221
@@ -453,7 +453,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (s
 Params: n= 231
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 232
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.001u,0.002s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 233
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 234
@@ -497,9 +497,9 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (s
 Params: n= 253
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 254
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 255
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 256
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 257
@@ -509,7 +509,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (s
 Params: n= 259
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 260
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.004u,0.s) (success)
 Params: n= 261
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 262
@@ -519,7 +519,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (s
 Params: n= 264
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 265
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.002u,0.002s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 266
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 267
@@ -529,13 +529,13 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (s
 Params: n= 269
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 270
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 271
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 272
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 273
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 274
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 275
@@ -635,11 +635,11 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (s
 Params: n= 322
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 323
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 324
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 325
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 326
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 327
@@ -685,7 +685,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (s
 Params: n= 347
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 348
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.003u,0.002s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 349
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 350
@@ -743,7 +743,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (s
 Params: n= 376
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 377
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 378
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 379
@@ -757,7 +757,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (s
 Params: n= 383
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 384
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 385
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 386
@@ -847,13 +847,13 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (s
 Params: n= 428
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 429
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 430
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 431
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 432
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.007 secs (0.008u,0.s) (success)
 Params: n= 433
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 434
@@ -947,7 +947,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (s
 Params: n= 478
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 479
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.009 secs (0.008u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 480
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 481
@@ -957,7 +957,7 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (s
 Params: n= 483
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 484
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 485
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 486
@@ -989,4 +989,4 @@ Tactic call cbn Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (s
 Params: n= 499
 Tactic call cbn Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 500
-Tactic call cbn Denote on PHOAS with big_flat ran for 0.009 secs (0.008u,0.s) (success)
+Tactic call cbn Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
