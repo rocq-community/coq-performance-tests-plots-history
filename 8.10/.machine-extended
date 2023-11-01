@@ -14,7 +14,7 @@ CPU family:                         6
 Model:                              85
 Model name:                         Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
 Stepping:                           7
-CPU MHz:                            2593.905
+CPU MHz:                            2593.906
 BogoMIPS:                           5187.81
 Hypervisor vendor:                  Microsoft
 Virtualization type:                full
@@ -30,6 +30,7 @@ Vulnerability Mds:                  Mitigation; Clear CPU buffers; SMT Host stat
 Vulnerability Meltdown:             Mitigation; PTI
 Vulnerability Mmio stale data:      Vulnerable: Clear CPU buffers attempted, no microcode; SMT Host state unknown
 Vulnerability Retbleed:             Vulnerable
+Vulnerability Spec rstack overflow: Not affected
 Vulnerability Spec store bypass:    Vulnerable
 Vulnerability Spectre v1:           Mitigation; usercopy/swapgs barriers and __user pointer sanitization
 Vulnerability Spectre v2:           Mitigation; Retpolines, STIBP disabled, RSB filling, PBRSB-eIBRS Not affected
@@ -37,5 +38,5 @@ Vulnerability Srbds:                Not affected
 Vulnerability Tsx async abort:      Mitigation; Clear CPU buffers; SMT Host state unknown
 Flags:                              fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm avx512f avx512dq rdseed adx smap clflushopt avx512cd avx512bw avx512vl xsaveopt xsavec xsaves md_clear
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m uname -a
-Linux 98eb42cc4370 6.2.0-1012-azure #12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023 x86_64 GNU/Linux
+Linux ce26f0306c19 6.2.0-1015-azure #15~22.04.1-Ubuntu SMP Fri Oct  6 13:20:44 UTC 2023 x86_64 GNU/Linux
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m lsb_release -a
