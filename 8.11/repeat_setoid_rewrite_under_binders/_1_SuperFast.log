@@ -1,16 +1,16 @@
 Params: n= 50
 Tactic call setoid_rewrite-regression-cubic ran for 0.153 secs (0.149u,0.004s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.191 secs (0.187u,0.004s) (success)
-Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.038 secs (0.038u,0.s)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.191 secs (0.186u,0.004s) (success)
+Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.037 secs (0.037u,0.s)
 Params: n= 100
-Tactic call setoid_rewrite-regression-cubic ran for 0.664 secs (0.66u,0.003s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.796 secs (0.792u,0.003s) (success)
+Tactic call setoid_rewrite-regression-cubic ran for 0.664 secs (0.664u,0.s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.795 secs (0.795u,0.s) (success)
 Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.131 secs (0.131u,0.s)
 Params: n= 150
-Tactic call setoid_rewrite-regression-cubic ran for 1.994 secs (1.993u,0.s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 2.269 secs (2.269u,0.s) (success)
+Tactic call setoid_rewrite-regression-cubic ran for 2.012 secs (2.012u,0.s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 2.288 secs (2.288u,0.s) (success)
 Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.275 secs (0.275u,0.s)
 Params: n= 200
-Tactic call setoid_rewrite-regression-cubic ran for 4.201 secs (4.197u,0.003s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 4.681 secs (4.677u,0.003s) (success)
-Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.479 secs (0.479u,0.s)
+Tactic call setoid_rewrite-regression-cubic ran for 4.272 secs (4.272u,0.s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 4.751 secs (4.751u,0.s) (success)
+Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.479 secs (0.478u,0.s)
