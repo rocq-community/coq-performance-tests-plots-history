@@ -263,9 +263,9 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0. secs (0.u,0.s) (suc
 Params: n= 1320
 Tactic call identity simpl on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 1330
-Tactic call identity simpl on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1340
-Tactic call identity simpl on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1350
 Tactic call identity simpl on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1360
@@ -295,7 +295,7 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s
 Params: n= 1480
 Tactic call identity simpl on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1490
-Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1500
 Tactic call identity simpl on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1510
@@ -423,11 +423,11 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s
 Params: n= 2600
 Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 2650
-Tactic call identity simpl on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 2700
 Tactic call identity simpl on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 2750
-Tactic call identity simpl on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.002 secs (0.001u,0.s) (success)
 Params: n= 2800
 Tactic call identity simpl on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 2850
@@ -477,7 +477,7 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s
 Params: n= 3950
 Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 4000
-Tactic call identity simpl on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 4050
 Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 4100
@@ -515,7 +515,7 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s
 Params: n= 4900
 Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 4950
-Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 5000
 Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 5050
@@ -525,9 +525,9 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s
 Params: n= 5150
 Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 5200
-Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 5250
-Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 5300
 Tactic call identity simpl on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 5350
@@ -541,7 +541,7 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s
 Params: n= 5550
 Tactic call identity simpl on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 5600
-Tactic call identity simpl on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.011 secs (0.008u,0.003s) (success)
 Params: n= 5650
 Tactic call identity simpl on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 5700
@@ -579,9 +579,9 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s
 Params: n= 6500
 Tactic call identity simpl on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 6550
-Tactic call identity simpl on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 6600
-Tactic call identity simpl on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 6650
 Tactic call identity simpl on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 6700
@@ -589,7 +589,7 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s
 Params: n= 6750
 Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 6800
-Tactic call identity simpl on PHOAS with big_flat ran for 0.016 secs (0.012u,0.003s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
 Params: n= 6850
 Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 6900
@@ -635,9 +635,9 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s
 Params: n= 7900
 Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 7950
-Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.006u,0.s) (success)
 Params: n= 8000
-Tactic call identity simpl on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 8050
 Tactic call identity simpl on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 8100
@@ -647,7 +647,7 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s
 Params: n= 8200
 Tactic call identity simpl on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 8250
-Tactic call identity simpl on PHOAS with big_flat ran for 0.017 secs (0.017u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.016 secs (0.012u,0.003s) (success)
 Params: n= 8300
 Tactic call identity simpl on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 8350
@@ -679,11 +679,11 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s
 Params: n= 9000
 Tactic call identity simpl on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 9050
-Tactic call identity simpl on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 9100
 Tactic call identity simpl on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 9150
-Tactic call identity simpl on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 9200
 Tactic call identity simpl on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 9250
@@ -729,7 +729,7 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s
 Params: n= 10500
 Tactic call identity simpl on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 10600
-Tactic call identity simpl on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 10700
 Tactic call identity simpl on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 10800
@@ -743,11 +743,11 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s
 Params: n= 11200
 Tactic call identity simpl on PHOAS with big_flat ran for 0.022 secs (0.022u,0.s) (success)
 Params: n= 11300
-Tactic call identity simpl on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 11400
-Tactic call identity simpl on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 11500
-Tactic call identity simpl on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 11600
 Tactic call identity simpl on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 11700
@@ -767,4 +767,4 @@ Tactic call identity simpl on PHOAS with big_flat ran for 0.024 secs (0.024u,0.s
 Params: n= 12400
 Tactic call identity simpl on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 12500
-Tactic call identity simpl on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call identity simpl on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)

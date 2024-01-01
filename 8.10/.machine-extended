@@ -14,7 +14,7 @@ CPU family:                         25
 Model:                              1
 Model name:                         AMD EPYC 7763 64-Core Processor
 Stepping:                           1
-CPU MHz:                            2770.548
+CPU MHz:                            2907.935
 BogoMIPS:                           4890.86
 Virtualization:                     AMD-V
 Hypervisor vendor:                  Microsoft
@@ -39,5 +39,5 @@ Vulnerability Srbds:                Not affected
 Vulnerability Tsx async abort:      Not affected
 Flags:                              fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl tsc_reliable nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm cmp_legacy svm cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw topoext invpcid_single vmmcall fsgsbase bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves clzero xsaveerptr rdpru arat npt nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold v_vmsave_vmload umip vaes vpclmulqdq rdpid fsrm
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m uname -a
-Linux f9367fae48cb 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023 x86_64 GNU/Linux
+Linux e4a831131c63 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023 x86_64 GNU/Linux
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m lsb_release -a
