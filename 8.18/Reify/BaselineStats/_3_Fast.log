@@ -311,7 +311,7 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0. secs (0.u,0.s) (succe
 Params: n= 1560
 Tactic call identity cbn on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 1570
-Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 1580
 Tactic call identity cbn on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 1590
@@ -323,7 +323,7 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) 
 Params: n= 1620
 Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1630
-Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0. secs (0.001u,0.s) (success)
 Params: n= 1640
 Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1650
@@ -349,7 +349,7 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) 
 Params: n= 1750
 Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1760
-Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.u,0.s) (success)
 Params: n= 1770
 Tactic call identity cbn on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1780
@@ -513,7 +513,7 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) 
 Params: n= 4850
 Tactic call identity cbn on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 4900
-Tactic call identity cbn on PHOAS with big_flat ran for 0.002 secs (0.003u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 4950
 Tactic call identity cbn on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 5000
@@ -561,7 +561,7 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) 
 Params: n= 6050
 Tactic call identity cbn on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 6100
-Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.003u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 6150
 Tactic call identity cbn on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 6200
@@ -575,13 +575,13 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) 
 Params: n= 6400
 Tactic call identity cbn on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 6450
-Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 6500
 Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 6550
 Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 6600
-Tactic call identity cbn on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.008 secs (0.004u,0.003s) (success)
 Params: n= 6650
 Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 6700
@@ -615,7 +615,7 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) 
 Params: n= 7400
 Tactic call identity cbn on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 7450
-Tactic call identity cbn on PHOAS with big_flat ran for 0.012 secs (0.012u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 7500
 Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 7550
@@ -637,9 +637,9 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (s
 Params: n= 7950
 Tactic call identity cbn on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 8000
-Tactic call identity cbn on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 8050
-Tactic call identity cbn on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 8100
 Tactic call identity cbn on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 8150
@@ -697,7 +697,7 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) 
 Params: n= 9450
 Tactic call identity cbn on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 9500
-Tactic call identity cbn on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 9550
 Tactic call identity cbn on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 9600
@@ -705,7 +705,7 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) 
 Params: n= 9650
 Tactic call identity cbn on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 9700
-Tactic call identity cbn on PHOAS with big_flat ran for 0.012 secs (0.009u,0.003s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.012 secs (0.012u,0.s) (success)
 Params: n= 9750
 Tactic call identity cbn on PHOAS with big_flat ran for 0.019 secs (0.019u,0.s) (success)
 Params: n= 9800
@@ -751,17 +751,17 @@ Tactic call identity cbn on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) 
 Params: n= 11600
 Tactic call identity cbn on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 11700
-Tactic call identity cbn on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
-Params: n= 11800
 Tactic call identity cbn on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
+Params: n= 11800
+Tactic call identity cbn on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 11900
 Tactic call identity cbn on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 12000
-Tactic call identity cbn on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 12100
 Tactic call identity cbn on PHOAS with big_flat ran for 0.017 secs (0.017u,0.s) (success)
 Params: n= 12200
-Tactic call identity cbn on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call identity cbn on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 12300
 Tactic call identity cbn on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 12400
