@@ -1,0 +1,20 @@
+Params: n= 10
+Tactic call repeat-rewrite_strat-bottomup-regression-cubic ran for 0.078 secs (0.065u,0.012s) (success)
+Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call abstract+repeat-rewrite_strat-bottomup-regression-cubic ran for 0.082 secs (0.069u,0.012s) (success)
+Tactic call close-abstract+repeat-rewrite_strat-bottomup-regression-quadratic ran for 0.001 secs (0.001u,0.s)
+Params: n= 20
+Tactic call repeat-rewrite_strat-bottomup-regression-cubic ran for 0.137 secs (0.137u,0.s) (success)
+Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call abstract+repeat-rewrite_strat-bottomup-regression-cubic ran for 0.146 secs (0.146u,0.s) (success)
+Tactic call close-abstract+repeat-rewrite_strat-bottomup-regression-quadratic ran for 0.004 secs (0.004u,0.s)
+Params: n= 30
+Tactic call repeat-rewrite_strat-bottomup-regression-cubic ran for 0.391 secs (0.391u,0.s) (success)
+Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call abstract+repeat-rewrite_strat-bottomup-regression-cubic ran for 0.406 secs (0.406u,0.s) (success)
+Tactic call close-abstract+repeat-rewrite_strat-bottomup-regression-quadratic ran for 0.007 secs (0.007u,0.s)
+Params: n= 40
+Tactic call repeat-rewrite_strat-bottomup-regression-cubic ran for 0.713 secs (0.713u,0.s) (success)
+Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 0.01 secs (0.01u,0.s) (success)
+Tactic call abstract+repeat-rewrite_strat-bottomup-regression-cubic ran for 0.736 secs (0.735u,0.s) (success)
+Tactic call close-abstract+repeat-rewrite_strat-bottomup-regression-quadratic ran for 0.011 secs (0.011u,0.s)
