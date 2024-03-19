@@ -11,7 +11,7 @@ Tactic call identity simpl on PHOAS with big ran for 0. secs (0.u,0.s) (success)
 Params: n= 530
 Tactic call identity simpl on PHOAS with big ran for 0. secs (0.u,0.s) (success)
 Params: n= 535
-Tactic call identity simpl on PHOAS with big ran for 0. secs (0.u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 540
 Tactic call identity simpl on PHOAS with big ran for 0. secs (0.u,0.s) (success)
 Params: n= 545
@@ -87,11 +87,11 @@ Tactic call identity simpl on PHOAS with big ran for 0. secs (0.u,0.s) (success)
 Params: n= 720
 Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 725
-Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0. secs (0.u,0.001s) (success)
 Params: n= 730
-Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0. secs (0.u,0.s) (success)
 Params: n= 735
-Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.u,0.s) (success)
 Params: n= 740
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 745
@@ -99,7 +99,7 @@ Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (su
 Params: n= 750
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 755
-Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.u,0.s) (success)
 Params: n= 760
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 765
@@ -109,7 +109,7 @@ Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (su
 Params: n= 775
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 780
-Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.u,0.s) (success)
 Params: n= 785
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 790
@@ -153,7 +153,7 @@ Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (su
 Params: n= 885
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 890
-Tactic call identity simpl on PHOAS with big ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 895
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 900
@@ -271,7 +271,7 @@ Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (su
 Params: n= 1360
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1370
-Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1380
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1390
@@ -279,7 +279,7 @@ Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (su
 Params: n= 1400
 Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1410
-Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1420
 Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1430
@@ -365,7 +365,7 @@ Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (su
 Params: n= 1830
 Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1840
-Tactic call identity simpl on PHOAS with big ran for 0.01 secs (0.01u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 1850
 Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 1860
@@ -381,25 +381,25 @@ Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (su
 Params: n= 1910
 Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1920
-Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 1930
-Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 1940
 Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 1950
-Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 1960
 Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1970
-Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 1980
-Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 1990
 Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 2000
 Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 2050
-Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 2100
 Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 2150
@@ -413,28 +413,28 @@ Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (su
 Params: n= 2350
 Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 2400
-Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2450
-Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2500
-Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2550
-Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2600
-Tactic call identity simpl on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2650
 Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2700
 Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2750
-Tactic call identity simpl on PHOAS with big ran for 0.012 secs (0.012u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 2800
 Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2850
 Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2900
-Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 2950
 Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 3000
-Tactic call identity simpl on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call identity simpl on PHOAS with big ran for 0.005 secs (0.005u,0.s) (success)
