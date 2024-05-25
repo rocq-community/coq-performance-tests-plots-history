@@ -14,7 +14,7 @@ CPU family:                         25
 Model:                              1
 Model name:                         AMD EPYC 7763 64-Core Processor
 Stepping:                           1
-CPU MHz:                            3242.867
+CPU MHz:                            3244.242
 BogoMIPS:                           4890.86
 Virtualization:                     AMD-V
 Hypervisor vendor:                  Microsoft
@@ -34,10 +34,10 @@ Vulnerability Retbleed:             Not affected
 Vulnerability Spec rstack overflow: Vulnerable: Safe RET, no microcode
 Vulnerability Spec store bypass:    Vulnerable
 Vulnerability Spectre v1:           Mitigation; usercopy/swapgs barriers and __user pointer sanitization
-Vulnerability Spectre v2:           Mitigation; Retpolines, STIBP disabled, RSB filling, PBRSB-eIBRS Not affected
+Vulnerability Spectre v2:           Mitigation; Retpolines; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Not affected
 Vulnerability Srbds:                Not affected
 Vulnerability Tsx async abort:      Not affected
 Flags:                              fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl tsc_reliable nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm cmp_legacy svm cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw topoext invpcid_single vmmcall fsgsbase bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves clzero xsaveerptr rdpru arat npt nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold v_vmsave_vmload umip vaes vpclmulqdq rdpid fsrm
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m uname -a
-Linux 0a828c931180 6.5.0-1018-azure #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024 x86_64 GNU/Linux
+Linux 156dba705715 6.5.0-1021-azure #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024 x86_64 GNU/Linux
 + \e[33;1m(../etc/machine-extended.sh @ line ) $\e[0m lsb_release -a
