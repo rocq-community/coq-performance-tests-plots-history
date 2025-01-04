@@ -57,7 +57,7 @@ Tactic call try-ssr-rewrite?-evar-noop-regression-linear ran for 0. secs (0.u,0.
 Params: 0-n= 4095 , 1-lgn= 11
 Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
 Tactic call try-ssr-rewrite!-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
-Tactic call try-ssr-rewrite-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
+Tactic call try-ssr-rewrite-noop-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Tactic call try-ssr-rewrite?-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
 Tactic call try-ssr-rewrite!-evar-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
 Tactic call try-ssr-rewrite-evar-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
