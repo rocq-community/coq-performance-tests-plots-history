@@ -1,9 +1,9 @@
 Params: n= 505
-Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 510
 Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 515
-Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 520
 Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 525
@@ -73,11 +73,11 @@ Tactic call identity cbn on PHOAS with big ran for 0. secs (0.u,0.s) (success)
 Params: n= 685
 Tactic call identity cbn on PHOAS with big ran for 0. secs (0.u,0.s) (success)
 Params: n= 690
-Tactic call identity cbn on PHOAS with big ran for 0. secs (0.u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 695
 Tactic call identity cbn on PHOAS with big ran for 0. secs (0.u,0.s) (success)
 Params: n= 700
-Tactic call identity cbn on PHOAS with big ran for 0. secs (0.u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 705
 Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 710
@@ -215,7 +215,7 @@ Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (succ
 Params: n= 1080
 Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1090
-Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.u,0.s) (success)
 Params: n= 1100
 Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 1110
@@ -235,7 +235,7 @@ Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (succ
 Params: n= 1180
 Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1190
-Tactic call identity cbn on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1200
 Tactic call identity cbn on PHOAS with big ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 1210
@@ -375,9 +375,9 @@ Tactic call identity cbn on PHOAS with big ran for 0.002 secs (0.002u,0.s) (succ
 Params: n= 1880
 Tactic call identity cbn on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1890
-Tactic call identity cbn on PHOAS with big ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.006 secs (0.005u,0.s) (success)
 Params: n= 1900
-Tactic call identity cbn on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 1910
 Tactic call identity cbn on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1920
@@ -387,15 +387,15 @@ Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (succ
 Params: n= 1940
 Tactic call identity cbn on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1950
-Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 1960
 Tactic call identity cbn on PHOAS with big ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 1970
 Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 1980
-Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
-Params: n= 1990
 Tactic call identity cbn on PHOAS with big ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 1990
+Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 2000
 Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 2050
@@ -403,7 +403,7 @@ Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (succ
 Params: n= 2100
 Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 2150
-Tactic call identity cbn on PHOAS with big ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2200
 Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 2250
@@ -419,7 +419,7 @@ Tactic call identity cbn on PHOAS with big ran for 0.006 secs (0.006u,0.s) (succ
 Params: n= 2500
 Tactic call identity cbn on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2550
-Tactic call identity cbn on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 2600
 Tactic call identity cbn on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2650
@@ -431,7 +431,7 @@ Tactic call identity cbn on PHOAS with big ran for 0.004 secs (0.004u,0.s) (succ
 Params: n= 2800
 Tactic call identity cbn on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2850
-Tactic call identity cbn on PHOAS with big ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call identity cbn on PHOAS with big ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 2900
 Tactic call identity cbn on PHOAS with big ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 2950
