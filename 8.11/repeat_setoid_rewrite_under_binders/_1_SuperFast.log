@@ -1,16 +1,16 @@
 Params: n= 50
-Tactic call setoid_rewrite-regression-cubic ran for 0.151 secs (0.138u,0.013s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.187 secs (0.174u,0.013s) (success)
+Tactic call setoid_rewrite-regression-cubic ran for 0.154 secs (0.14u,0.013s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.191 secs (0.177u,0.014s) (success)
 Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.036 secs (0.036u,0.s)
 Params: n= 100
-Tactic call setoid_rewrite-regression-cubic ran for 0.656 secs (0.654u,0.001s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.786 secs (0.784u,0.001s) (success)
+Tactic call setoid_rewrite-regression-cubic ran for 0.654 secs (0.653u,0.s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 0.783 secs (0.782u,0.s) (success)
 Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.128 secs (0.128u,0.s)
 Params: n= 150
-Tactic call setoid_rewrite-regression-cubic ran for 1.962 secs (1.96u,0.002s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 2.233 secs (2.231u,0.002s) (success)
+Tactic call setoid_rewrite-regression-cubic ran for 1.94 secs (1.937u,0.003s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 2.211 secs (2.208u,0.003s) (success)
 Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.27 secs (0.27u,0.s)
 Params: n= 200
-Tactic call setoid_rewrite-regression-cubic ran for 4.227 secs (4.225u,0.001s) (success)
-Tactic call abstract+setoid_rewrite-regression-cubic ran for 4.701 secs (4.698u,0.002s) (success)
-Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.474 secs (0.473u,0.001s)
+Tactic call setoid_rewrite-regression-cubic ran for 4.246 secs (4.242u,0.003s) (success)
+Tactic call abstract+setoid_rewrite-regression-cubic ran for 4.718 secs (4.713u,0.003s) (success)
+Tactic call close-abstract+setoid_rewrite-regression-quadratic ran for 0.47 secs (0.47u,0.s)

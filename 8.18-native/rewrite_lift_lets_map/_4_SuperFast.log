@@ -1,462 +1,462 @@
 Params: 0-nm= 5 , 1-n= 1 , 2-m= 5
-native_compute: Conversion to native code done in 0.00019
-native_compute: Compilation done in 0.10110
-native_compute: Evaluation done in 0.00050
-native_compute: Reification done in 0.00009
-Tactic call cps+native_compute-regression-quadratic ran for 0.203 secs (0.084u,0.018s) (success)
+native_compute: Conversion to native code done in 0.00020
+native_compute: Compilation done in 0.09728
+native_compute: Evaluation done in 0.00051
+native_compute: Reification done in 0.00006
+Tactic call cps+native_compute-regression-quadratic ran for 0.187 secs (0.068u,0.022s) (success)
 Params: 0-nm= 5 , 1-n= 5 , 2-m= 1
 native_compute: Conversion to native code done in 0.00034
-native_compute: Compilation done in 0.09811
-native_compute: Evaluation done in 0.00050
-native_compute: Reification done in 0.00006
-Tactic call cps+native_compute-regression-quadratic ran for 0.099 secs (0.001u,0.001s) (success)
-Params: 0-nm= 306 , 1-n= 17 , 2-m= 18
-native_compute: Conversion to native code done in 0.00021
-native_compute: Compilation done in 0.09645
-native_compute: Evaluation done in 0.00051
-native_compute: Reification done in 0.00093
-Tactic call cps+native_compute-regression-quadratic ran for 0.098 secs (0.003u,0.s) (success)
-Params: 0-nm= 307 , 1-n= 1 , 2-m= 307
-native_compute: Conversion to native code done in 0.00036
-native_compute: Compilation done in 0.09965
-native_compute: Evaluation done in 0.00050
-native_compute: Reification done in 0.00092
-Tactic call cps+native_compute-regression-quadratic ran for 0.101 secs (0.001u,0.001s) (success)
-Params: 0-nm= 307 , 1-n= 307 , 2-m= 1
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09684
-native_compute: Evaluation done in 0.00071
-native_compute: Reification done in 0.00116
-Tactic call cps+native_compute-regression-quadratic ran for 0.099 secs (0.u,0.003s) (success)
-Params: 0-nm= 600 , 1-n= 24 , 2-m= 25
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09777
-native_compute: Evaluation done in 0.00051
-native_compute: Reification done in 0.00183
-Tactic call cps+native_compute-regression-quadratic ran for 0.1 secs (0.u,0.003s) (success)
-Params: 0-nm= 609 , 1-n= 1 , 2-m= 609
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09809
-native_compute: Evaluation done in 0.00054
-native_compute: Reification done in 0.00182
-Tactic call cps+native_compute-regression-quadratic ran for 0.1 secs (0.003u,0.s) (success)
-Params: 0-nm= 609 , 1-n= 609 , 2-m= 1
-native_compute: Conversion to native code done in 0.00017
-native_compute: Compilation done in 0.10004
-native_compute: Evaluation done in 0.00055
-native_compute: Reification done in 0.00253
-Tactic call cps+native_compute-regression-quadratic ran for 0.103 secs (0.002u,0.002s) (success)
-Params: 0-nm= 910 , 1-n= 1 , 2-m= 910
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09774
-native_compute: Evaluation done in 0.00071
-native_compute: Reification done in 0.00272
-Tactic call cps+native_compute-regression-quadratic ran for 0.101 secs (0.003u,0.001s) (success)
-Params: 0-nm= 910 , 1-n= 910 , 2-m= 1
-native_compute: Conversion to native code done in 0.00040
-native_compute: Compilation done in 0.09682
+native_compute: Compilation done in 0.09617
 native_compute: Evaluation done in 0.00052
-native_compute: Reification done in 0.04503
-Tactic call cps+native_compute-regression-quadratic ran for 0.142 secs (0.043u,0.004s) (success)
+native_compute: Reification done in 0.00006
+Tactic call cps+native_compute-regression-quadratic ran for 0.097 secs (0.002u,0.s) (success)
+Params: 0-nm= 306 , 1-n= 17 , 2-m= 18
+native_compute: Conversion to native code done in 0.00018
+native_compute: Compilation done in 0.09637
+native_compute: Evaluation done in 0.00051
+native_compute: Reification done in 0.00094
+Tactic call cps+native_compute-regression-quadratic ran for 0.098 secs (0.002u,0.001s) (success)
+Params: 0-nm= 307 , 1-n= 1 , 2-m= 307
+native_compute: Conversion to native code done in 0.00034
+native_compute: Compilation done in 0.09664
+native_compute: Evaluation done in 0.00052
+native_compute: Reification done in 0.00094
+Tactic call cps+native_compute-regression-quadratic ran for 0.098 secs (0.003u,0.s) (success)
+Params: 0-nm= 307 , 1-n= 307 , 2-m= 1
+native_compute: Conversion to native code done in 0.00022
+native_compute: Compilation done in 0.09598
+native_compute: Evaluation done in 0.00051
+native_compute: Reification done in 0.00123
+Tactic call cps+native_compute-regression-quadratic ran for 0.098 secs (0.003u,0.s) (success)
+Params: 0-nm= 600 , 1-n= 24 , 2-m= 25
+native_compute: Conversion to native code done in 0.00022
+native_compute: Compilation done in 0.09651
+native_compute: Evaluation done in 0.00053
+native_compute: Reification done in 0.00181
+Tactic call cps+native_compute-regression-quadratic ran for 0.099 secs (0.004u,0.s) (success)
+Params: 0-nm= 609 , 1-n= 1 , 2-m= 609
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09722
+native_compute: Evaluation done in 0.00056
+native_compute: Reification done in 0.00181
+Tactic call cps+native_compute-regression-quadratic ran for 0.099 secs (0.004u,0.s) (success)
+Params: 0-nm= 609 , 1-n= 609 , 2-m= 1
+native_compute: Conversion to native code done in 0.00021
+native_compute: Compilation done in 0.09721
+native_compute: Evaluation done in 0.00053
+native_compute: Reification done in 0.00237
+Tactic call cps+native_compute-regression-quadratic ran for 0.1 secs (0.004u,0.s) (success)
+Params: 0-nm= 910 , 1-n= 1 , 2-m= 910
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09711
+native_compute: Evaluation done in 0.00067
+native_compute: Reification done in 0.00264
+Tactic call cps+native_compute-regression-quadratic ran for 0.1 secs (0.002u,0.002s) (success)
+Params: 0-nm= 910 , 1-n= 910 , 2-m= 1
+native_compute: Conversion to native code done in 0.00036
+native_compute: Compilation done in 0.09731
+native_compute: Evaluation done in 0.00057
+native_compute: Reification done in 0.04670
+Tactic call cps+native_compute-regression-quadratic ran for 0.145 secs (0.045u,0.004s) (success)
 Params: 0-nm= 930 , 1-n= 30 , 2-m= 31
-native_compute: Conversion to native code done in 0.00017
-native_compute: Compilation done in 0.09725
-native_compute: Evaluation done in 0.00050
-native_compute: Reification done in 0.00222
-Tactic call cps+native_compute-regression-quadratic ran for 0.1 secs (0.003u,0.001s) (success)
+native_compute: Conversion to native code done in 0.00018
+native_compute: Compilation done in 0.09798
+native_compute: Evaluation done in 0.00053
+native_compute: Reification done in 0.00226
+Tactic call cps+native_compute-regression-quadratic ran for 0.101 secs (0.003u,0.s) (success)
 Params: 0-nm= 1190 , 1-n= 34 , 2-m= 35
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09829
-native_compute: Evaluation done in 0.00050
-native_compute: Reification done in 0.00298
-Tactic call cps+native_compute-regression-quadratic ran for 0.102 secs (0.004u,0.s) (success)
+native_compute: Compilation done in 0.09628
+native_compute: Evaluation done in 0.00051
+native_compute: Reification done in 0.00299
+Tactic call cps+native_compute-regression-quadratic ran for 0.1 secs (0.005u,0.s) (success)
 Params: 0-nm= 1212 , 1-n= 1 , 2-m= 1212
-native_compute: Conversion to native code done in 0.00017
-native_compute: Compilation done in 0.09742
-native_compute: Evaluation done in 0.00057
-native_compute: Reification done in 0.00301
-Tactic call cps+native_compute-regression-quadratic ran for 0.101 secs (0.004u,0.s) (success)
-Params: 0-nm= 1212 , 1-n= 1212 , 2-m= 1
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.10011
+native_compute: Compilation done in 0.09661
+native_compute: Evaluation done in 0.00054
+native_compute: Reification done in 0.00308
+Tactic call cps+native_compute-regression-quadratic ran for 0.1 secs (0.005u,0.s) (success)
+Params: 0-nm= 1212 , 1-n= 1212 , 2-m= 1
+native_compute: Conversion to native code done in 0.00021
+native_compute: Compilation done in 0.09693
 native_compute: Evaluation done in 0.00055
-native_compute: Reification done in 0.00416
-Tactic call cps+native_compute-regression-quadratic ran for 0.105 secs (0.005u,0.s) (success)
+native_compute: Reification done in 0.00408
+Tactic call cps+native_compute-regression-quadratic ran for 0.101 secs (0.005u,0.s) (success)
 Params: 0-nm= 1482 , 1-n= 38 , 2-m= 39
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09875
-native_compute: Evaluation done in 0.00054
-native_compute: Reification done in 0.00358
-Tactic call cps+native_compute-regression-quadratic ran for 0.103 secs (0.004u,0.s) (success)
+native_compute: Compilation done in 0.09712
+native_compute: Evaluation done in 0.00053
+native_compute: Reification done in 0.00366
+Tactic call cps+native_compute-regression-quadratic ran for 0.101 secs (0.004u,0.s) (success)
 Params: 0-nm= 1513 , 1-n= 1 , 2-m= 1513
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09807
-native_compute: Evaluation done in 0.00056
-native_compute: Reification done in 0.00395
-Tactic call cps+native_compute-regression-quadratic ran for 0.102 secs (0.006u,0.s) (success)
-Params: 0-nm= 1513 , 1-n= 1513 , 2-m= 1
-native_compute: Conversion to native code done in 0.00018
+native_compute: Conversion to native code done in 0.00020
 native_compute: Compilation done in 0.09720
 native_compute: Evaluation done in 0.00057
-native_compute: Reification done in 0.00508
-Tactic call cps+native_compute-regression-quadratic ran for 0.103 secs (0.007u,0.s) (success)
+native_compute: Reification done in 0.00377
+Tactic call cps+native_compute-regression-quadratic ran for 0.101 secs (0.005u,0.s) (success)
+Params: 0-nm= 1513 , 1-n= 1513 , 2-m= 1
+native_compute: Conversion to native code done in 0.00018
+native_compute: Compilation done in 0.09687
+native_compute: Evaluation done in 0.00059
+native_compute: Reification done in 0.00515
+Tactic call cps+native_compute-regression-quadratic ran for 0.102 secs (0.006u,0.s) (success)
 Params: 0-nm= 1891 , 1-n= 1 , 2-m= 1891
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09783
+native_compute: Compilation done in 0.09679
 native_compute: Evaluation done in 0.00056
-native_compute: Reification done in 0.00471
-Tactic call cps+native_compute-regression-quadratic ran for 0.103 secs (0.006u,0.s) (success)
+native_compute: Reification done in 0.00474
+Tactic call cps+native_compute-regression-quadratic ran for 0.102 secs (0.006u,0.s) (success)
 Params: 0-nm= 1891 , 1-n= 1891 , 2-m= 1
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.11110
-native_compute: Evaluation done in 0.00062
-native_compute: Reification done in 0.00648
-Tactic call cps+native_compute-regression-quadratic ran for 0.118 secs (0.021u,0.s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.11031
+native_compute: Evaluation done in 0.00059
+native_compute: Reification done in 0.00674
+Tactic call cps+native_compute-regression-quadratic ran for 0.117 secs (0.021u,0.s) (success)
 Params: 0-nm= 1892 , 1-n= 43 , 2-m= 44
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09778
-native_compute: Evaluation done in 0.00052
-native_compute: Reification done in 0.00491
-Tactic call cps+native_compute-regression-quadratic ran for 0.103 secs (0.006u,0.s) (success)
+native_compute: Conversion to native code done in 0.00018
+native_compute: Compilation done in 0.09686
+native_compute: Evaluation done in 0.00051
+native_compute: Reification done in 0.00473
+Tactic call cps+native_compute-regression-quadratic ran for 0.102 secs (0.006u,0.s) (success)
 Params: 0-nm= 2256 , 1-n= 47 , 2-m= 48
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09783
-native_compute: Evaluation done in 0.00051
-native_compute: Reification done in 0.00556
-Tactic call cps+native_compute-regression-quadratic ran for 0.104 secs (0.007u,0.s) (success)
+native_compute: Compilation done in 0.09730
+native_compute: Evaluation done in 0.00054
+native_compute: Reification done in 0.00568
+Tactic call cps+native_compute-regression-quadratic ran for 0.103 secs (0.007u,0.s) (success)
 Params: 0-nm= 2269 , 1-n= 1 , 2-m= 2269
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09756
-native_compute: Evaluation done in 0.00115
-native_compute: Reification done in 0.00578
-Tactic call cps+native_compute-regression-quadratic ran for 0.104 secs (0.007u,0.s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09660
+native_compute: Evaluation done in 0.00057
+native_compute: Reification done in 0.00569
+Tactic call cps+native_compute-regression-quadratic ran for 0.103 secs (0.006u,0.s) (success)
 Params: 0-nm= 2269 , 1-n= 2269 , 2-m= 1
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09807
-native_compute: Evaluation done in 0.00192
-native_compute: Reification done in 0.00774
-Tactic call cps+native_compute-regression-quadratic ran for 0.108 secs (0.011u,0.s) (success)
-Params: 0-nm= 2647 , 1-n= 1 , 2-m= 2647
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09859
-native_compute: Evaluation done in 0.00271
-native_compute: Reification done in 0.00677
-Tactic call cps+native_compute-regression-quadratic ran for 0.108 secs (0.01u,0.s) (success)
+native_compute: Compilation done in 0.09695
+native_compute: Evaluation done in 0.00058
+native_compute: Reification done in 0.00805
+Tactic call cps+native_compute-regression-quadratic ran for 0.105 secs (0.01u,0.s) (success)
+Params: 0-nm= 2647 , 1-n= 1 , 2-m= 2647
+native_compute: Conversion to native code done in 0.00020
+native_compute: Compilation done in 0.09810
+native_compute: Evaluation done in 0.00058
+native_compute: Reification done in 0.00670
+Tactic call cps+native_compute-regression-quadratic ran for 0.105 secs (0.008u,0.s) (success)
 Params: 0-nm= 2647 , 1-n= 2647 , 2-m= 1
-native_compute: Conversion to native code done in 0.00021
-native_compute: Compilation done in 0.09737
-native_compute: Evaluation done in 0.00309
-native_compute: Reification done in 0.00911
-Tactic call cps+native_compute-regression-quadratic ran for 0.109 secs (0.012u,0.s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09679
+native_compute: Evaluation done in 0.00312
+native_compute: Reification done in 0.00917
+Tactic call cps+native_compute-regression-quadratic ran for 0.109 secs (0.012u,0.001s) (success)
 Params: 0-nm= 2652 , 1-n= 51 , 2-m= 52
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09816
-native_compute: Evaluation done in 0.00058
-native_compute: Reification done in 0.00657
-Tactic call cps+native_compute-regression-quadratic ran for 0.105 secs (0.008u,0.s) (success)
+native_compute: Compilation done in 0.09745
+native_compute: Evaluation done in 0.00053
+native_compute: Reification done in 0.00671
+Tactic call cps+native_compute-regression-quadratic ran for 0.105 secs (0.007u,0.s) (success)
 Params: 0-nm= 3025 , 1-n= 1 , 2-m= 3025
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09771
-native_compute: Evaluation done in 0.00061
-native_compute: Reification done in 0.00767
+native_compute: Conversion to native code done in 0.00018
+native_compute: Compilation done in 0.09762
+native_compute: Evaluation done in 0.00064
+native_compute: Reification done in 0.00768
 Tactic call cps+native_compute-regression-quadratic ran for 0.106 secs (0.009u,0.s) (success)
 Params: 0-nm= 3025 , 1-n= 55 , 2-m= 55
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09733
-native_compute: Evaluation done in 0.00056
-native_compute: Reification done in 0.00760
-Tactic call cps+native_compute-regression-quadratic ran for 0.105 secs (0.009u,0.s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09693
+native_compute: Evaluation done in 0.00096
+native_compute: Reification done in 0.00764
+Tactic call cps+native_compute-regression-quadratic ran for 0.105 secs (0.01u,0.s) (success)
 Params: 0-nm= 3025 , 1-n= 3025 , 2-m= 1
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09810
-native_compute: Evaluation done in 0.00063
-native_compute: Reification done in 0.01073
-Tactic call cps+native_compute-regression-quadratic ran for 0.109 secs (0.012u,0.s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.10041
+native_compute: Evaluation done in 0.00098
+native_compute: Reification done in 0.01187
+Tactic call cps+native_compute-regression-quadratic ran for 0.113 secs (0.014u,0.s) (success)
 Params: 0-nm= 3403 , 1-n= 1 , 2-m= 3403
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09872
-native_compute: Evaluation done in 0.00060
-native_compute: Reification done in 0.00878
-Tactic call cps+native_compute-regression-quadratic ran for 0.108 secs (0.01u,0.s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09668
+native_compute: Evaluation done in 0.00063
+native_compute: Reification done in 0.00857
+Tactic call cps+native_compute-regression-quadratic ran for 0.106 secs (0.008u,0.001s) (success)
 Params: 0-nm= 3403 , 1-n= 3403 , 2-m= 1
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09721
-native_compute: Evaluation done in 0.00062
-native_compute: Reification done in 0.01199
-Tactic call cps+native_compute-regression-quadratic ran for 0.11 secs (0.013u,0.s) (success)
+native_compute: Conversion to native code done in 0.00018
+native_compute: Compilation done in 0.09696
+native_compute: Evaluation done in 0.00065
+native_compute: Reification done in 0.01196
+Tactic call cps+native_compute-regression-quadratic ran for 0.109 secs (0.012u,0.001s) (success)
 Params: 0-nm= 3422 , 1-n= 58 , 2-m= 59
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09939
-native_compute: Evaluation done in 0.00054
-native_compute: Reification done in 0.00861
-Tactic call cps+native_compute-regression-quadratic ran for 0.108 secs (0.01u,0.s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09724
+native_compute: Evaluation done in 0.00058
+native_compute: Reification done in 0.00855
+Tactic call cps+native_compute-regression-quadratic ran for 0.106 secs (0.01u,0.s) (success)
 Params: 0-nm= 3781 , 1-n= 1 , 2-m= 3781
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09871
-native_compute: Evaluation done in 0.00061
-native_compute: Reification done in 0.00990
-Tactic call cps+native_compute-regression-quadratic ran for 0.109 secs (0.011u,0.s) (success)
-Params: 0-nm= 3781 , 1-n= 3781 , 2-m= 1
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09860
-native_compute: Evaluation done in 0.00076
-native_compute: Reification done in 0.01556
-Tactic call cps+native_compute-regression-quadratic ran for 0.115 secs (0.018u,0.s) (success)
-Params: 0-nm= 3782 , 1-n= 61 , 2-m= 62
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09793
-native_compute: Evaluation done in 0.00139
-native_compute: Reification done in 0.00970
-Tactic call cps+native_compute-regression-quadratic ran for 0.109 secs (0.012u,0.s) (success)
-Params: 0-nm= 4159 , 1-n= 1 , 2-m= 4159
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09800
-native_compute: Evaluation done in 0.00217
-native_compute: Reification done in 0.01073
-Tactic call cps+native_compute-regression-quadratic ran for 0.111 secs (0.014u,0.s) (success)
-Params: 0-nm= 4159 , 1-n= 4159 , 2-m= 1
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09761
-native_compute: Evaluation done in 0.00293
-native_compute: Reification done in 0.02038
-Tactic call cps+native_compute-regression-quadratic ran for 0.121 secs (0.024u,0.s) (success)
-Params: 0-nm= 4160 , 1-n= 64 , 2-m= 65
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09916
-native_compute: Evaluation done in 0.00071
-native_compute: Reification done in 0.01107
-Tactic call cps+native_compute-regression-quadratic ran for 0.111 secs (0.011u,0.001s) (success)
-Params: 0-nm= 4537 , 1-n= 1 , 2-m= 4537
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09850
-native_compute: Evaluation done in 0.00077
-native_compute: Reification done in 0.01173
-Tactic call cps+native_compute-regression-quadratic ran for 0.111 secs (0.014u,0.s) (success)
-Params: 0-nm= 4537 , 1-n= 4537 , 2-m= 1
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09829
-native_compute: Evaluation done in 0.00072
-native_compute: Reification done in 0.01642
-Tactic call cps+native_compute-regression-quadratic ran for 0.115 secs (0.018u,0.s) (success)
-Params: 0-nm= 4556 , 1-n= 67 , 2-m= 68
 native_compute: Conversion to native code done in 0.00021
-native_compute: Compilation done in 0.09853
-native_compute: Evaluation done in 0.00056
-native_compute: Reification done in 0.01352
-Tactic call cps+native_compute-regression-quadratic ran for 0.113 secs (0.015u,0.s) (success)
-Params: 0-nm= 5041 , 1-n= 1 , 2-m= 5041
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09722
+native_compute: Compilation done in 0.09732
 native_compute: Evaluation done in 0.00071
-native_compute: Reification done in 0.01326
-Tactic call cps+native_compute-regression-quadratic ran for 0.111 secs (0.014u,0.s) (success)
+native_compute: Reification done in 0.00968
+Tactic call cps+native_compute-regression-quadratic ran for 0.108 secs (0.01u,0.s) (success)
+Params: 0-nm= 3781 , 1-n= 3781 , 2-m= 1
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09699
+native_compute: Evaluation done in 0.00069
+native_compute: Reification done in 0.01597
+Tactic call cps+native_compute-regression-quadratic ran for 0.114 secs (0.016u,0.001s) (success)
+Params: 0-nm= 3782 , 1-n= 61 , 2-m= 62
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09757
+native_compute: Evaluation done in 0.00053
+native_compute: Reification done in 0.00986
+Tactic call cps+native_compute-regression-quadratic ran for 0.108 secs (0.011u,0.s) (success)
+Params: 0-nm= 4159 , 1-n= 1 , 2-m= 4159
+native_compute: Conversion to native code done in 0.00018
+native_compute: Compilation done in 0.09855
+native_compute: Evaluation done in 0.00067
+native_compute: Reification done in 0.01075
+Tactic call cps+native_compute-regression-quadratic ran for 0.11 secs (0.012u,0.s) (success)
+Params: 0-nm= 4159 , 1-n= 4159 , 2-m= 1
+native_compute: Conversion to native code done in 0.00021
+native_compute: Compilation done in 0.09764
+native_compute: Evaluation done in 0.00065
+native_compute: Reification done in 0.02133
+Tactic call cps+native_compute-regression-quadratic ran for 0.12 secs (0.022u,0.s) (success)
+Params: 0-nm= 4160 , 1-n= 64 , 2-m= 65
+native_compute: Conversion to native code done in 0.00020
+native_compute: Compilation done in 0.09782
+native_compute: Evaluation done in 0.00058
+native_compute: Reification done in 0.01065
+Tactic call cps+native_compute-regression-quadratic ran for 0.109 secs (0.011u,0.s) (success)
+Params: 0-nm= 4537 , 1-n= 1 , 2-m= 4537
+native_compute: Conversion to native code done in 0.00022
+native_compute: Compilation done in 0.09721
+native_compute: Evaluation done in 0.00064
+native_compute: Reification done in 0.01164
+Tactic call cps+native_compute-regression-quadratic ran for 0.109 secs (0.012u,0.s) (success)
+Params: 0-nm= 4537 , 1-n= 4537 , 2-m= 1
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09748
+native_compute: Evaluation done in 0.00067
+native_compute: Reification done in 0.01633
+Tactic call cps+native_compute-regression-quadratic ran for 0.114 secs (0.017u,0.001s) (success)
+Params: 0-nm= 4556 , 1-n= 67 , 2-m= 68
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09708
+native_compute: Evaluation done in 0.00105
+native_compute: Reification done in 0.01356
+Tactic call cps+native_compute-regression-quadratic ran for 0.112 secs (0.016u,0.s) (success)
+Params: 0-nm= 5041 , 1-n= 1 , 2-m= 5041
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09723
+native_compute: Evaluation done in 0.00191
+native_compute: Reification done in 0.01317
+Tactic call cps+native_compute-regression-quadratic ran for 0.112 secs (0.015u,0.s) (success)
 Params: 0-nm= 5041 , 1-n= 71 , 2-m= 71
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09868
-native_compute: Evaluation done in 0.00057
-native_compute: Reification done in 0.01287
-Tactic call cps+native_compute-regression-quadratic ran for 0.112 secs (0.013u,0.001s) (success)
+native_compute: Compilation done in 0.09773
+native_compute: Evaluation done in 0.00053
+native_compute: Reification done in 0.01321
+Tactic call cps+native_compute-regression-quadratic ran for 0.111 secs (0.015u,0.s) (success)
 Params: 0-nm= 5041 , 1-n= 5041 , 2-m= 1
-native_compute: Conversion to native code done in 0.00019
-native_compute: Compilation done in 0.09816
-native_compute: Evaluation done in 0.00098
-native_compute: Reification done in 0.03099
-Tactic call cps+native_compute-regression-quadratic ran for 0.13 secs (0.033u,0.s) (success)
-Params: 0-nm= 5546 , 1-n= 1 , 2-m= 5546
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09864
-native_compute: Evaluation done in 0.00073
-native_compute: Reification done in 0.01464
-Tactic call cps+native_compute-regression-quadratic ran for 0.114 secs (0.017u,0.s) (success)
+native_compute: Compilation done in 0.09844
+native_compute: Evaluation done in 0.00072
+native_compute: Reification done in 0.03122
+Tactic call cps+native_compute-regression-quadratic ran for 0.13 secs (0.032u,0.001s) (success)
+Params: 0-nm= 5546 , 1-n= 1 , 2-m= 5546
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09788
+native_compute: Evaluation done in 0.00070
+native_compute: Reification done in 0.01448
+Tactic call cps+native_compute-regression-quadratic ran for 0.113 secs (0.016u,0.s) (success)
 Params: 0-nm= 5546 , 1-n= 5546 , 2-m= 1
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09750
+native_compute: Conversion to native code done in 0.00021
+native_compute: Compilation done in 0.09774
 native_compute: Evaluation done in 0.00077
-native_compute: Reification done in 0.02088
-Tactic call cps+native_compute-regression-quadratic ran for 0.119 secs (0.023u,0.s) (success)
+native_compute: Reification done in 0.02093
+Tactic call cps+native_compute-regression-quadratic ran for 0.119 secs (0.022u,0.s) (success)
 Params: 0-nm= 5550 , 1-n= 74 , 2-m= 75
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09809
-native_compute: Evaluation done in 0.00059
-native_compute: Reification done in 0.01453
-Tactic call cps+native_compute-regression-quadratic ran for 0.113 secs (0.016u,0.s) (success)
+native_compute: Compilation done in 0.09778
+native_compute: Evaluation done in 0.00062
+native_compute: Reification done in 0.01441
+Tactic call cps+native_compute-regression-quadratic ran for 0.113 secs (0.015u,0.s) (success)
 Params: 0-nm= 6006 , 1-n= 77 , 2-m= 78
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09871
-native_compute: Evaluation done in 0.00063
-native_compute: Reification done in 0.01564
-Tactic call cps+native_compute-regression-quadratic ran for 0.115 secs (0.017u,0.s) (success)
+native_compute: Compilation done in 0.09753
+native_compute: Evaluation done in 0.00056
+native_compute: Reification done in 0.01573
+Tactic call cps+native_compute-regression-quadratic ran for 0.114 secs (0.017u,0.s) (success)
 Params: 0-nm= 6050 , 1-n= 1 , 2-m= 6050
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09802
-native_compute: Evaluation done in 0.00067
-native_compute: Reification done in 0.01624
-Tactic call cps+native_compute-regression-quadratic ran for 0.115 secs (0.018u,0.s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09690
+native_compute: Evaluation done in 0.00078
+native_compute: Reification done in 0.01612
+Tactic call cps+native_compute-regression-quadratic ran for 0.114 secs (0.018u,0.s) (success)
 Params: 0-nm= 6050 , 1-n= 6050 , 2-m= 1
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09759
-native_compute: Evaluation done in 0.00077
-native_compute: Reification done in 0.02421
-Tactic call cps+native_compute-regression-quadratic ran for 0.122 secs (0.025u,0.s) (success)
+native_compute: Compilation done in 0.09808
+native_compute: Evaluation done in 0.00078
+native_compute: Reification done in 0.02416
+Tactic call cps+native_compute-regression-quadratic ran for 0.123 secs (0.025u,0.001s) (success)
 Params: 0-nm= 6480 , 1-n= 80 , 2-m= 81
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09933
-native_compute: Evaluation done in 0.00069
-native_compute: Reification done in 0.01691
-Tactic call cps+native_compute-regression-quadratic ran for 0.117 secs (0.018u,0.s) (success)
-Params: 0-nm= 6554 , 1-n= 1 , 2-m= 6554
-native_compute: Conversion to native code done in 0.00021
-native_compute: Compilation done in 0.09601
-native_compute: Evaluation done in 0.00071
-native_compute: Reification done in 0.08897
-Tactic call cps+native_compute-regression-quadratic ran for 0.186 secs (0.091u,0.s) (success)
-Params: 0-nm= 6554 , 1-n= 6554 , 2-m= 1
-native_compute: Conversion to native code done in 0.00022
-native_compute: Compilation done in 0.09628
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09833
 native_compute: Evaluation done in 0.00074
-native_compute: Reification done in 0.02443
-Tactic call cps+native_compute-regression-quadratic ran for 0.121 secs (0.025u,0.s) (success)
+native_compute: Reification done in 0.01726
+Tactic call cps+native_compute-regression-quadratic ran for 0.116 secs (0.019u,0.s) (success)
+Params: 0-nm= 6554 , 1-n= 1 , 2-m= 6554
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09609
+native_compute: Evaluation done in 0.00074
+native_compute: Reification done in 0.08698
+Tactic call cps+native_compute-regression-quadratic ran for 0.184 secs (0.089u,0.s) (success)
+Params: 0-nm= 6554 , 1-n= 6554 , 2-m= 1
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09665
+native_compute: Evaluation done in 0.00075
+native_compute: Reification done in 0.02438
+Tactic call cps+native_compute-regression-quadratic ran for 0.122 secs (0.026u,0.s) (success)
 Params: 0-nm= 7058 , 1-n= 1 , 2-m= 7058
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09690
-native_compute: Evaluation done in 0.00069
-native_compute: Reification done in 0.02699
-Tactic call cps+native_compute-regression-quadratic ran for 0.124 secs (0.027u,0.001s) (success)
-Params: 0-nm= 7058 , 1-n= 7058 , 2-m= 1
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09775
-native_compute: Evaluation done in 0.00081
-native_compute: Reification done in 0.02633
-Tactic call cps+native_compute-regression-quadratic ran for 0.125 secs (0.026u,0.002s) (success)
-Params: 0-nm= 7140 , 1-n= 84 , 2-m= 85
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.10140
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09637
 native_compute: Evaluation done in 0.00073
-native_compute: Reification done in 0.01931
-Tactic call cps+native_compute-regression-quadratic ran for 0.121 secs (0.021u,0.s) (success)
+native_compute: Reification done in 0.02630
+Tactic call cps+native_compute-regression-quadratic ran for 0.123 secs (0.027u,0.001s) (success)
+Params: 0-nm= 7058 , 1-n= 7058 , 2-m= 1
+native_compute: Conversion to native code done in 0.00021
+native_compute: Compilation done in 0.09619
+native_compute: Evaluation done in 0.00082
+native_compute: Reification done in 0.02635
+Tactic call cps+native_compute-regression-quadratic ran for 0.123 secs (0.027u,0.s) (success)
+Params: 0-nm= 7140 , 1-n= 84 , 2-m= 85
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09849
+native_compute: Evaluation done in 0.00057
+native_compute: Reification done in 0.01906
+Tactic call cps+native_compute-regression-quadratic ran for 0.118 secs (0.021u,0.s) (success)
 Params: 0-nm= 7482 , 1-n= 86 , 2-m= 87
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.13188
-native_compute: Evaluation done in 0.00137
-native_compute: Reification done in 0.01972
-Tactic call cps+native_compute-regression-quadratic ran for 0.153 secs (0.052u,0.001s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.12917
+native_compute: Evaluation done in 0.00056
+native_compute: Reification done in 0.02002
+Tactic call cps+native_compute-regression-quadratic ran for 0.15 secs (0.053u,0.s) (success)
 Params: 0-nm= 7562 , 1-n= 1 , 2-m= 7562
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09945
-native_compute: Evaluation done in 0.00076
-native_compute: Reification done in 0.02032
-Tactic call cps+native_compute-regression-quadratic ran for 0.12 secs (0.02u,0.001s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09915
+native_compute: Evaluation done in 0.00071
+native_compute: Reification done in 0.02007
+Tactic call cps+native_compute-regression-quadratic ran for 0.12 secs (0.022u,0.s) (success)
 Params: 0-nm= 7562 , 1-n= 7562 , 2-m= 1
 native_compute: Conversion to native code done in 0.00021
-native_compute: Compilation done in 0.09944
-native_compute: Evaluation done in 0.00108
-native_compute: Reification done in 0.03253
-Tactic call cps+native_compute-regression-quadratic ran for 0.133 secs (0.033u,0.001s) (success)
+native_compute: Compilation done in 0.09748
+native_compute: Evaluation done in 0.00084
+native_compute: Reification done in 0.03324
+Tactic call cps+native_compute-regression-quadratic ran for 0.131 secs (0.034u,0.s) (success)
 Params: 0-nm= 8319 , 1-n= 1 , 2-m= 8319
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09891
-native_compute: Evaluation done in 0.00076
-native_compute: Reification done in 0.02260
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09802
+native_compute: Evaluation done in 0.00083
+native_compute: Reification done in 0.02320
 Tactic call cps+native_compute-regression-quadratic ran for 0.122 secs (0.024u,0.s) (success)
 Params: 0-nm= 8319 , 1-n= 8319 , 2-m= 1
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09849
-native_compute: Evaluation done in 0.00083
-native_compute: Reification done in 0.04438
-Tactic call cps+native_compute-regression-quadratic ran for 0.144 secs (0.045u,0.s) (success)
+native_compute: Conversion to native code done in 0.00021
+native_compute: Compilation done in 0.09869
+native_compute: Evaluation done in 0.00093
+native_compute: Reification done in 0.04490
+Tactic call cps+native_compute-regression-quadratic ran for 0.144 secs (0.045u,0.001s) (success)
 Params: 0-nm= 8372 , 1-n= 91 , 2-m= 92
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09857
-native_compute: Evaluation done in 0.00054
-native_compute: Reification done in 0.02247
-Tactic call cps+native_compute-regression-quadratic ran for 0.121 secs (0.024u,0.s) (success)
+native_compute: Compilation done in 0.09870
+native_compute: Evaluation done in 0.00058
+native_compute: Reification done in 0.02311
+Tactic call cps+native_compute-regression-quadratic ran for 0.122 secs (0.024u,0.s) (success)
 Params: 0-nm= 9075 , 1-n= 1 , 2-m= 9075
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09877
-native_compute: Evaluation done in 0.00080
-native_compute: Reification done in 0.02582
+native_compute: Compilation done in 0.09829
+native_compute: Evaluation done in 0.00079
+native_compute: Reification done in 0.02593
 Tactic call cps+native_compute-regression-quadratic ran for 0.125 secs (0.027u,0.001s) (success)
 Params: 0-nm= 9075 , 1-n= 9075 , 2-m= 1
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.10233
-native_compute: Evaluation done in 0.00088
-native_compute: Reification done in 0.03581
-Tactic call cps+native_compute-regression-quadratic ran for 0.139 secs (0.037u,0.s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09731
+native_compute: Evaluation done in 0.00085
+native_compute: Reification done in 0.03454
+Tactic call cps+native_compute-regression-quadratic ran for 0.133 secs (0.037u,0.s) (success)
 Params: 0-nm= 9120 , 1-n= 95 , 2-m= 96
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.10004
-native_compute: Evaluation done in 0.00057
-native_compute: Reification done in 0.02449
-Tactic call cps+native_compute-regression-quadratic ran for 0.125 secs (0.026u,0.s) (success)
+native_compute: Compilation done in 0.09875
+native_compute: Evaluation done in 0.00059
+native_compute: Reification done in 0.02462
+Tactic call cps+native_compute-regression-quadratic ran for 0.124 secs (0.025u,0.s) (success)
 Params: 0-nm= 9831 , 1-n= 1 , 2-m= 9831
-native_compute: Conversion to native code done in 0.00021
-native_compute: Compilation done in 0.09945
-native_compute: Evaluation done in 0.00077
-native_compute: Reification done in 0.03549
-Tactic call cps+native_compute-regression-quadratic ran for 0.136 secs (0.034u,0.003s) (success)
-Params: 0-nm= 9831 , 1-n= 9831 , 2-m= 1
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09801
-native_compute: Evaluation done in 0.00085
-native_compute: Reification done in 0.03713
-Tactic call cps+native_compute-regression-quadratic ran for 0.136 secs (0.039u,0.s) (success)
+native_compute: Compilation done in 0.09809
+native_compute: Evaluation done in 0.00083
+native_compute: Reification done in 0.03507
+Tactic call cps+native_compute-regression-quadratic ran for 0.134 secs (0.037u,0.s) (success)
+Params: 0-nm= 9831 , 1-n= 9831 , 2-m= 1
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09836
+native_compute: Evaluation done in 0.00087
+native_compute: Reification done in 0.03761
+Tactic call cps+native_compute-regression-quadratic ran for 0.137 secs (0.04u,0.s) (success)
 Params: 0-nm= 9900 , 1-n= 99 , 2-m= 100
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09825
+native_compute: Compilation done in 0.09834
 native_compute: Evaluation done in 0.00056
-native_compute: Reification done in 0.03307
-Tactic call cps+native_compute-regression-quadratic ran for 0.132 secs (0.034u,0.001s) (success)
+native_compute: Reification done in 0.03314
+Tactic call cps+native_compute-regression-quadratic ran for 0.132 secs (0.035u,0.s) (success)
 Params: 0-nm= 10506 , 1-n= 102 , 2-m= 103
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09967
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09784
 native_compute: Evaluation done in 0.00059
-native_compute: Reification done in 0.02842
-Tactic call cps+native_compute-regression-quadratic ran for 0.129 secs (0.03u,0.s) (success)
+native_compute: Reification done in 0.02900
+Tactic call cps+native_compute-regression-quadratic ran for 0.127 secs (0.03u,0.001s) (success)
 Params: 0-nm= 10588 , 1-n= 1 , 2-m= 10588
 native_compute: Conversion to native code done in 0.00019
-native_compute: Compilation done in 0.10117
-native_compute: Evaluation done in 0.00084
-native_compute: Reification done in 0.02854
-Tactic call cps+native_compute-regression-quadratic ran for 0.13 secs (0.032u,0.s) (success)
+native_compute: Compilation done in 0.09957
+native_compute: Evaluation done in 0.00083
+native_compute: Reification done in 0.02878
+Tactic call cps+native_compute-regression-quadratic ran for 0.129 secs (0.031u,0.s) (success)
 Params: 0-nm= 10588 , 1-n= 10588 , 2-m= 1
 native_compute: Conversion to native code done in 0.00019
-native_compute: Compilation done in 0.09692
-native_compute: Evaluation done in 0.00093
-native_compute: Reification done in 0.06136
-Tactic call cps+native_compute-regression-quadratic ran for 0.159 secs (0.06u,0.002s) (success)
+native_compute: Compilation done in 0.09569
+native_compute: Evaluation done in 0.00091
+native_compute: Reification done in 0.06080
+Tactic call cps+native_compute-regression-quadratic ran for 0.157 secs (0.061u,0.002s) (success)
 Params: 0-nm= 11342 , 1-n= 106 , 2-m= 107
 native_compute: Conversion to native code done in 0.00019
-native_compute: Compilation done in 0.09899
-native_compute: Evaluation done in 0.00058
-native_compute: Reification done in 0.03061
-Tactic call cps+native_compute-regression-quadratic ran for 0.13 secs (0.031u,0.s) (success)
+native_compute: Compilation done in 0.09806
+native_compute: Evaluation done in 0.00057
+native_compute: Reification done in 0.03087
+Tactic call cps+native_compute-regression-quadratic ran for 0.129 secs (0.032u,0.s) (success)
 Params: 0-nm= 11344 , 1-n= 1 , 2-m= 11344
-native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09684
-native_compute: Evaluation done in 0.00082
-native_compute: Reification done in 0.03072
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09611
+native_compute: Evaluation done in 0.00085
+native_compute: Reification done in 0.03112
 Tactic call cps+native_compute-regression-quadratic ran for 0.128 secs (0.033u,0.s) (success)
 Params: 0-nm= 11344 , 1-n= 11344 , 2-m= 1
-native_compute: Conversion to native code done in 0.00020
-native_compute: Compilation done in 0.09694
-native_compute: Evaluation done in 0.00090
-native_compute: Reification done in 0.05496
-Tactic call cps+native_compute-regression-quadratic ran for 0.153 secs (0.053u,0.003s) (success)
+native_compute: Conversion to native code done in 0.00019
+native_compute: Compilation done in 0.09589
+native_compute: Evaluation done in 0.00092
+native_compute: Reification done in 0.05423
+Tactic call cps+native_compute-regression-quadratic ran for 0.151 secs (0.053u,0.002s) (success)
 Params: 0-nm= 12100 , 1-n= 1 , 2-m= 12100
-native_compute: Conversion to native code done in 0.00022
-native_compute: Compilation done in 0.09742
-native_compute: Evaluation done in 0.00086
-native_compute: Reification done in 0.12413
-Tactic call cps+native_compute-regression-quadratic ran for 0.222 secs (0.125u,0.s) (success)
+native_compute: Conversion to native code done in 0.00020
+native_compute: Compilation done in 0.09576
+native_compute: Evaluation done in 0.00085
+native_compute: Reification done in 0.12521
+Tactic call cps+native_compute-regression-quadratic ran for 0.222 secs (0.126u,0.s) (success)
 Params: 0-nm= 12100 , 1-n= 110 , 2-m= 110
-native_compute: Conversion to native code done in 0.00017
-native_compute: Compilation done in 0.09755
-native_compute: Evaluation done in 0.00058
-native_compute: Reification done in 0.03274
-Tactic call cps+native_compute-regression-quadratic ran for 0.131 secs (0.034u,0.s) (success)
-Params: 0-nm= 12100 , 1-n= 12100 , 2-m= 1
 native_compute: Conversion to native code done in 0.00018
-native_compute: Compilation done in 0.09811
-native_compute: Evaluation done in 0.00100
-native_compute: Reification done in 0.05196
-Tactic call cps+native_compute-regression-quadratic ran for 0.151 secs (0.053u,0.001s) (success)
+native_compute: Compilation done in 0.09641
+native_compute: Evaluation done in 0.00060
+native_compute: Reification done in 0.03352
+Tactic call cps+native_compute-regression-quadratic ran for 0.13 secs (0.034u,0.s) (success)
+Params: 0-nm= 12100 , 1-n= 12100 , 2-m= 1
+native_compute: Conversion to native code done in 0.00021
+native_compute: Compilation done in 0.09609
+native_compute: Evaluation done in 0.00093
+native_compute: Reification done in 0.05271
+Tactic call cps+native_compute-regression-quadratic ran for 0.15 secs (0.054u,0.001s) (success)
