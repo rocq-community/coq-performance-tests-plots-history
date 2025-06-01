@@ -35,7 +35,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (succe
 Params: n= 22
 Tactic call simpl Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 23
-Tactic call simpl Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 24
 Tactic call simpl Denote on PHOAS with big_flat ran for 0. secs (0.u,0.s) (success)
 Params: n= 25
@@ -51,7 +51,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) 
 Params: n= 30
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 31
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.001 secs (0.u,0.001s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.001 secs (0.u,0.s) (success)
 Params: n= 32
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 33
@@ -109,7 +109,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) 
 Params: n= 59
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 60
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 61
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 62
@@ -187,7 +187,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) 
 Params: n= 98
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 99
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.002u,0.s) (success)
 Params: n= 100
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 101
@@ -219,7 +219,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) 
 Params: n= 114
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 115
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.002u,0.s) (success)
 Params: n= 116
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 117
@@ -239,7 +239,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) 
 Params: n= 124
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 125
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.004 secs (0.003u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 126
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 127
@@ -343,7 +343,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) 
 Params: n= 176
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 177
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 178
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 179
@@ -351,7 +351,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) 
 Params: n= 180
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 181
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 182
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 183
@@ -409,11 +409,11 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) 
 Params: n= 209
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 210
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 211
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 212
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.006u,0.s) (success)
 Params: n= 213
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 214
@@ -435,9 +435,9 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) 
 Params: n= 222
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 223
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 224
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 225
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 226
@@ -453,11 +453,11 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) 
 Params: n= 231
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 232
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 233
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 234
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 235
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 236
@@ -471,9 +471,9 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) 
 Params: n= 240
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 241
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 242
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 243
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 244
@@ -509,7 +509,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) 
 Params: n= 259
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 260
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 261
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 262
@@ -523,7 +523,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) 
 Params: n= 266
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 267
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.007u,0.s) (success)
 Params: n= 268
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 269
@@ -533,13 +533,13 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) 
 Params: n= 271
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 272
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 273
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 274
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 275
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.008u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 276
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 277
@@ -573,7 +573,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) 
 Params: n= 291
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 292
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 293
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 294
@@ -587,9 +587,9 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (s
 Params: n= 298
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 299
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 300
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 301
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 302
@@ -621,7 +621,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (s
 Params: n= 315
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 316
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 317
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 318
@@ -651,9 +651,9 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (s
 Params: n= 330
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 331
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 332
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 333
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 334
@@ -677,7 +677,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) 
 Params: n= 343
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 344
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.012 secs (0.012u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 345
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 346
@@ -711,11 +711,11 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) 
 Params: n= 360
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 361
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.012 secs (0.012u,0.s) (success)
 Params: n= 362
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 363
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.012 secs (0.012u,0.s) (success)
 Params: n= 364
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.012 secs (0.012u,0.s) (success)
 Params: n= 365
@@ -777,7 +777,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) 
 Params: n= 393
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 394
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.012 secs (0.012u,0.s) (success)
 Params: n= 395
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 396
@@ -817,7 +817,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) 
 Params: n= 413
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 414
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.013u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 415
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 416
@@ -827,7 +827,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) 
 Params: n= 418
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 419
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 420
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 421
@@ -835,7 +835,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) 
 Params: n= 422
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 423
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 424
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 425
@@ -857,7 +857,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) 
 Params: n= 433
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 434
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 435
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 436
@@ -867,7 +867,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) 
 Params: n= 438
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 439
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 440
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 441
@@ -893,9 +893,9 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) 
 Params: n= 451
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 452
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
-Params: n= 453
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
+Params: n= 453
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.014 secs (0.014u,0.s) (success)
 Params: n= 454
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
 Params: n= 455
@@ -927,7 +927,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) 
 Params: n= 468
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
 Params: n= 469
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
 Params: n= 470
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
 Params: n= 471
@@ -939,7 +939,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) 
 Params: n= 474
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
 Params: n= 475
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.015u,0.001s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
 Params: n= 476
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.015 secs (0.015u,0.s) (success)
 Params: n= 477
@@ -963,7 +963,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) 
 Params: n= 486
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
 Params: n= 487
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.017 secs (0.017u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
 Params: n= 488
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
 Params: n= 489
@@ -977,7 +977,7 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.017 secs (0.017u,0.s) 
 Params: n= 493
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
 Params: n= 494
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.017 secs (0.017u,0.s) (success)
 Params: n= 495
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
 Params: n= 496
@@ -987,6 +987,6 @@ Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) 
 Params: n= 498
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
 Params: n= 499
-Tactic call simpl Denote on PHOAS with big_flat ran for 0.017 secs (0.017u,0.s) (success)
+Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
 Params: n= 500
 Tactic call simpl Denote on PHOAS with big_flat ran for 0.016 secs (0.016u,0.s) (success)
